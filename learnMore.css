@@ -1,0 +1,36 @@
+html,body { 
+	height:100%; 
+}
+
+
+.nav {
+	height: 7%;
+}
+.nav li{
+	display: inline;
+}
+
+.main-about {
+	background-color: RGB(228,229,229);
+}
+
+#mainImg{
+	padding-bottom: 10px;
+}
+
+#mainParagraph {
+	color: black;
+	font-size: 24px;
+	padding-top: 30px;
+}
+
+.learn-more-p {
+	text-align: center;
+	font-weight: bold;
+}
+
+.learn-more-img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

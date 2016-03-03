@@ -1,0 +1,96 @@
+html,body { 
+	height:100%;
+}
+
+
+.nav {
+	height: 7%;
+}
+.nav li{
+	display: inline;
+}
+
+.background {
+	background-color: RGB(76,94,109);
+	height: 93%;
+	text-align: center;
+}
+
+.questionSection {
+	background-color: white;
+	margin-top: 50px;
+	height: 500px;
+}
+
+.header {
+	height: 15%;
+	border-bottom: 1px solid grey;
+	font-size: 50px;
+}
+
+.mainSection .pull-left {
+	background-color: RGB(27,33,37);
+	width: 50%;
+	height: 85%;
+}
+
+.mainSection .pull-right {
+	width: 50%;
+	height:85%;
+}
+
+.answers {
+	margin: 0;
+    padding: 0;
+}
+
+.answer1, .answer2, .answer3{
+	border-bottom: 1px solid grey;
+	height:25%;
+	list-style-type: none;
+}
+
+.answer4 {
+	height:25%;
+	list-style-type: none;
+}
+
+.answer1:hover, .answer2:hover, .answer3:hover, .answer4:hover {
+	background-color: #3498db;
+}
+
+.question, .questionCode {
+	color: white;
+	text-align: left;
+	margin-top: 40px;
+	margin-left:40px;
+}
+
+pre {
+	background-color: RGB(27,33,37);
+	color: white;
+	border: none;
+}
+
+.buttons {
+	margin-top: 10px;
+}
+
+.disableClick{
+    pointer-events: none;
+}
+
+.topText {
+	padding-top: 70px;
+}
+
+.scoreSection {
+	height: 85%;
+	background-color: #3498db;
+}
+
+.hint {
+	position: absolute;
+	padding-left: 170px;
+	padding-top: 30px;
+}

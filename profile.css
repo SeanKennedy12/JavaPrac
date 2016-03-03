@@ -1,0 +1,26 @@
+html,body { 
+	height:100%;
+}
+
+
+.nav {
+	height: 7%;
+}
+.nav li{
+	display: inline;
+}
+
+.jumbotron img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.jumbotron a {
+	display: block;
+	text-align: center;
+}
+
+.header {
+	background-color: RGB(228,229,229);
+}

@@ -1,0 +1,40 @@
+html,body { 
+	height:100%;
+}
+
+
+.nav {
+	height: 7%;
+}
+.nav li{
+	display: inline;
+}
+
+.jumbotron {
+	background-image: url("images/jumbotron_img.jpg");
+	/* img src = https://goo.gl/WIQZO1 */
+	background-size: cover;
+	height: 50%;
+}
+
+.jumbotron h1 {
+	color: white;
+}
+
+.jumbotron p {
+	color : white;
+}
+
+.exercises {
+	background-color: RGB(228,229,229);
+	height: 43%;
+}
+
+.exercises .col-md-4 {
+	padding-top: 50px;
+}
+
+.exercises img {
+    display: block;
+    margin: 0 auto;
+}

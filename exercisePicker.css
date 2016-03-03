@@ -1,0 +1,39 @@
+html,body { 
+	height:100%; 
+	
+}
+
+.nav {
+	height: 7%;
+}
+
+.nav li{
+	display: inline;
+}
+
+.exercises {
+	background-color: RGB(228,229,229);
+	height: 93%;
+}
+
+.exercise {
+	background-color: white;
+	padding: 10px;
+	padding-left: 50px;
+	margin: 10px;
+	color: black;
+	overflow: auto;
+}
+
+.exercise:hover {
+	background-color: #3498db;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}

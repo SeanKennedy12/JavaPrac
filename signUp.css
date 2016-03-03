@@ -1,0 +1,20 @@
+.nav {
+	height: 7%;
+}
+.nav li{
+	display: inline;
+}
+
+.signUp {
+	height: 93%;
+	background-color: RGB(228,229,229);
+	padding-top: 20px;
+	text-align: center;
+}
+
+.logIn {
+	height: 93%;
+	background-color: RGB(228,229,229);
+	padding-top: 20px;
+	text-align: center;
+}
